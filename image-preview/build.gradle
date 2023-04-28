@@ -62,7 +62,7 @@ afterEvaluate {
             release(MavenPublication) {
                 from components.release
 
-                groupId = 'com.github.AliBadar'
+                groupId = 'com.github.alibadar'
                 artifactId = 'image-preview-compose'
                 version = '1.0'
             }
